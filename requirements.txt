@@ -1,0 +1,3 @@
+﻿# Streamlit provides the app UI; recommendation processing uses only Python's
+# standard library to avoid native scientific-package DLL policy blocks.
+streamlit
